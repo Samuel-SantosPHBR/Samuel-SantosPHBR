@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bem Vindo, me chamo Samuel dos Santos 👋
+
+<h4>Atualmente estou trabalhando no Midas Software e Site imobiliario como Desenvolvedor Full Stack Junior</h4>
+
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-SantosPHBR)](https://github.com/Samuel-SantosPHBR/github-readme-stats)
 
 <!--
 **Samuel-SantosPHBR/Samuel-SantosPHBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
