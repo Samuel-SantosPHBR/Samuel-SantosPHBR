@@ -13,32 +13,20 @@
 
 
 
-<h4>Abaixo estão minhas redes para contato:</h4>
+<h3 align="center">⭐  Statistics and Languages</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-dev/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuel-SantosPHBR)
+ <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Samuel-SantosPHBR&count_private=true&show_icons=true&theme=dracula" alt="Samuel dos Santos" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-SantosPHBR&&langs_count=8&layout=compact&theme=dracula" alt="Samuel dos Santos" height="165" />
+</p>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=Samuel-SantosPHBR&theme=dracula&row=1" alt="Samuel dos Santos" />
+</p>
 
+<h3 align="center">✌️ Contact Me</h3>
 
-<h4>Minhas informações do Github:</h4>
-
-![Github Badge](	https://github-readme-stats.vercel.app/api?username=Samuel-SantosPHBR) ![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-SantosPHBR&layout=compact)
-
-
-
-
-
-
-
-<!--
-**Samuel-SantosPHBR/Samuel-SantosPHBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-santos-dev/"><img src="https://img.shields.io/badge/-samueldossantos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:samueldossantosti@gmail.com"><img src="https://img.shields.io/badge/-samueldossantosti@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/samucasanthos/"><img src="https://img.shields.io/badge/-@samucasanthos-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p><br>
