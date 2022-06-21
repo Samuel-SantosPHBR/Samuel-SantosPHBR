@@ -1,10 +1,10 @@
 ### Bem Vindo, me chamo Samuel dos Santos 👋
 
-<h4>Atualmente estou trabalhando no Midas Software e Site imobiliario como Desenvolvedor Full Stack Junior</h4>
+<h4>Atualmente estou trabalhando na Trybe como Pessoa Instrutora Front-End</h4>
 
 <h4>Sobre mim:</h4>
 
-<p>Sou um desenvolvedor formado em Analise e Desenvolvimento de sistema e cursando pós em Engenharia de Software, sou baiano e moro atualmente no Rio de Janeiro onde trabalho, e estudo.</p>
+<p>Sou um desenvolvedor de 24 anos formado em Analise e Desenvolvimento de sistema e cursando pós em Engenharia de Software, sou baiano e moro atualmente no Rio de Janeiro - RJ onde trabalho como pessoa Instrutora Front End</p>
 
 
 <h4>Tecnologias que utilizo</h4>
