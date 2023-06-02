@@ -4,7 +4,7 @@
 
 <h4>Sobre mim:</h4>
 
-<p>Sou um desenvolvedor de 24 anos formado em Analise e Desenvolvimento de sistema e cursando pós em Engenharia de Software, sou baiano e moro atualmente no Rio de Janeiro - RJ onde trabalho como pessoa Instrutora Front End</p>
+<p>Sou um desenvolvedor de 24 anos formado em Analise e Desenvolvimento de sistema e cursando pós em Engenharia de Software, sou baiano e moro atualmente no Rio de Janeiro - RJ onde trabalho como Desenvolvedor Full Stack Pleno</p>
 
 
 <h4>Tecnologias que utilizo</h4>
