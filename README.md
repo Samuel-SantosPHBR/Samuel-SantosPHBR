@@ -1,6 +1,6 @@
 ### Bem Vindo, me chamo Samuel dos Santos 👋
 
-<h4>Atualmente estou trabalhando na Vibra Energia como Desenvolvedor Full Stack Pleno</h4>
+<h4>Atualmente estou trabalhando na Vibra Energia como Engenheiro de Software Senior</h4>
 
 <h4>Sobre mim:</h4>
 
